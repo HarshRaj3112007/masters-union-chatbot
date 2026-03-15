@@ -1,0 +1,494 @@
+================================================================================
+MASTERS' UNION — UNDERGRADUATE PROGRAMME IN DATA SCIENCE AND AI
+Structured Data Extraction for AI Model Training
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: PROGRAMME OVERVIEW
+--------------------------------------------------------------------------------
+
+Programme Name: Undergraduate Programme in Data Science and AI
+Institution: Masters' Union
+Degree Type: 3+1 Dual Degree Programme
+Partner University: Illinois Institute of Technology (Illinois Tech), Chicago, USA
+Degree Awarded (Global Track): Bachelor of Science in Artificial Intelligence (from Illinois Tech, USA)
+
+Key Highlights:
+- 100+ Industry-led real world projects
+- 200+ CXOs and MDs serve as Faculty
+- 3+1 Dual Degree from Illinois Tech, Chicago
+- Curriculum crafted in collaboration with experts from Microsoft, PwC, Ola Krutrim
+- Faculty includes industry pioneers from Google, American Express, Amazon
+
+--------------------------------------------------------------------------------
+SECTION 2: LEADERSHIP
+--------------------------------------------------------------------------------
+
+Founder:
+  Name: Pratham Mittal
+  Title: Founder, Masters' Union
+  Education: UPenn Alumni
+
+Managing Director (UG Programmes):
+  Name: Swati Ganeti
+  Title: MD, UG Programmes
+  Education: IIT Delhi, Wharton Alumni
+
+--------------------------------------------------------------------------------
+SECTION 3: CURRICULUM — YEAR-BY-YEAR BREAKDOWN
+--------------------------------------------------------------------------------
+
+YEAR 1: Learn the Fundamentals of DS & AI
+
+  Foundational Courses:
+    - Linear Algebra
+    - Probability & Statistics
+    - Computer Fundamentals
+    - Programming Fundamentals — Python & R
+    - Coding with Java
+
+  Artificial Intelligence:
+    - The Origins of AI
+    - Building and Deploying AI Agents
+    - Transformation through AI
+
+  Data Science:
+    - Introduction to Data Science
+    - Data Driven Storytelling
+    - Data Structures
+    - Unsupervised Machine Learning
+
+  Leadership Courses:
+    - The Art of Communication & Stakeholder Management
+
+---
+
+YEAR 2: Master DS & AI for Career Excellence
+
+  Foundational Courses:
+    - Statistical Methods for Data Science
+    - Optimization Theory
+
+  Artificial Intelligence:
+    - Transformation through AI (Healthcare & Education)
+    - Building Products and Designing Recommendations
+    - Data Architecture
+    - Sociology of AI
+    - Advanced Machine Learning & Deep Learning
+
+  Data Science:
+    - Data Wrangling & EDA
+    - Supervised Machine Learning
+    - Database Management
+    - Signals & Systems
+    - Data Engineering
+
+---
+
+YEAR 3: Become an AI Leader
+
+  Foundational Courses:
+    - Career Prep & Industry Engagement
+
+  Artificial Intelligence:
+    - Natural Language Processing
+    - AI in the Cloud
+    - Computer Vision
+
+  Data Science:
+    - Reinforcement Learning
+    - MLOps & AI Systems
+    - Big Data & Cloud Computing
+
+  Leadership Courses:
+    - Data Science & AI in Finance
+    - AI in Leadership & Strategic Decision-Making
+    - Data Science in Public Policy
+    - AI Ethics and Policy
+
+---
+
+YEAR 4: Get Ready for the Real World
+
+  Industry Training:
+    - Students spend a year gaining hands-on experience through a full-time internship
+      or project with leading firms (Big Tech, Data Science, or AI Startups)
+    - Option to build and scale their own AI venture with mentorship and support
+    - Eligible students may spend a full academic year at Illinois Institute of Technology,
+      Chicago, and graduate with a Bachelor of Science in Artificial Intelligence from Illinois Tech, USA
+
+---
+
+Curriculum Designed in Collaboration With:
+  - Google
+  - Microsoft
+  - Ola Krutrim
+  - PwC
+
+--------------------------------------------------------------------------------
+SECTION 4: OUTCLASS CURRICULUM (Hands-On Projects)
+--------------------------------------------------------------------------------
+
+YEAR 1 — Outclass Projects:
+
+  Chatbot Building:
+    - Build a Chatbot using ChatGPT and other No Code tools
+    - Use cases: AI Application in Industry, Customer support chatbot, Mental health support chatbot
+
+  Industry Exposure (Unsupervised Learning):
+    - Customer Segmentation for Credit Card Companies using K-Means
+    - Anomaly Detection in financial transactions using One-class SVM
+    - Customer Purchase Behaviour Clustering using RFM
+
+YEAR 2 — Outclass Projects:
+
+  Tool Development:
+    - Develop an Autonomous AI agent that automates a critical function within an organization
+    - Examples: AI-powered Ad creative generator, AI-driven quality control system for manufacturing,
+      AI tool automating customer service for large enterprises
+
+  Industry Exposure (Supervised & Reinforcement Learning):
+    - Sales forecasting using Time Series
+    - Student performance prediction using tree-based algorithms
+    - Portfolio optimisation with Reinforcement Learning
+
+YEAR 3 — Outclass Projects:
+
+  RAG Building:
+    - Design, build, and deploy an AI-powered Product using Retrieval Augmented Generation (RAG)
+      and Generative AI
+    - Must be validated in the market with at least 5 paying clients OR INR 5 lakhs in revenue
+    - Examples: Finance RAG Assistant, Medical RAG system, Educational FAQ Assistant, Legal Document Summarizer
+
+YEAR 4 — Outclass Projects:
+
+  Deep Industry Immersion:
+    - Work alongside leading Tech Companies, AI Start-ups, or sector leaders (IoT, Autonomous Systems)
+
+  Venture Building:
+    - Final year as an Incubator to Design, Test, and Launch AI-driven Businesses
+
+  Illinois Tech Option:
+    - Study at Illinois Tech, Chicago campus for 4th year
+    - Graduate with Bachelor of Science in AI
+    - Placement opportunities in the USA
+
+--------------------------------------------------------------------------------
+SECTION 5: FACULTY & GUEST SPEAKERS
+--------------------------------------------------------------------------------
+
+Total Faculty Count: 200+ CXOs & MDs
+
+Featured Faculty/Speakers:
+
+  1. Sumoya Ghosh
+     Role: Google Experience Partner
+     Company: Google
+
+  2. Dr. Shashank Shekhar Sharma
+     Role: CEO and Founder
+     Company: Expedify
+
+  3. Siddarth Padmanabhan
+     Role: Former Partner Manager
+     Company: Facebook
+
+  4. Dr. Nandini Seth
+     Role: Professor, Masters' Union
+     Education: Ph.D, IIM-B
+
+  5. Varun Mayya
+     Role: Aeos Group Founder and Content Creator
+     Company: AEOS
+
+  6. Edward W Rogers
+     Role: Former Chief Knowledge Officer
+     Company: NASA
+
+  7. Karan Bhyana
+     Role: Senior Data Analyst
+     Company: Walmart
+
+  8. Mr. Divij Bajaj
+     Role: Data and Applied Scientist
+     Company: Microsoft
+
+Icons at Masters' Union (Guest Lecturers / Industry Icons):
+
+  1. Bhaskarjit Sarmah — Head of AI Research, Domyn
+  2. Sahiba Bali — Former Associate Director and Ex Brand Manager, Zomato
+  3. Hitesh Oberoi — MD & CEO, Naukri/Info Edge
+  4. Aashish Chandra — Senior Vice President, Kyndryl
+  5. Raj Shamani — Social Media Influencer, Co-Founder, House of X
+  6. Ashneer Grover — Former Founder, MD & CEO, BharatPe
+  7. Alex Dwek — COO, Nas Company
+  8. Aman Gupta — Founder & CMO, boAt
+  9. Satyam Mehra — CBO, Tata Digital
+  10. Siddharth Jhawar — Country Manager, Moloco
+  11. Shamik Mishra — CTO and Vice President, Capgemini
+  12. Vishal Jain — CEO, Zerodha Fund House
+  13. Abhinav Mathur — Assistant Vice President, Genpack
+  14. Saurabh Vadhera — Business Head, AI and Workflow Transformation, Wati
+  15. Peyush Bansal — Co-Founder & CEO, Lenskart
+
+--------------------------------------------------------------------------------
+SECTION 6: INDUSTRY PROJECT COLLABORATIONS
+--------------------------------------------------------------------------------
+
+Companies involved in Real-World Projects (100+):
+  - Google
+  - Microsoft
+  - Amazon
+  - Apple
+  - CRED
+  - Samsung
+  - Meta
+  - Paytm
+  - Cognizant
+  - Schbang
+  - TATA
+  - Think School
+
+Companies whose CXOs/MDs serve as Faculty (200+):
+  - Amazon
+  - Apple
+  - Microsoft
+  - Facebook
+  - Nothing
+  - Airtel
+  - IBM
+  - Bain & Company
+  - Walmart
+  - AEOS
+  - Goldman Sachs
+  - Expedify
+
+--------------------------------------------------------------------------------
+SECTION 7: DEGREE TRACKS
+--------------------------------------------------------------------------------
+
+INDIA TRACK:
+  - 3 years at Masters' Union + 1 year industry immersion in India
+  - Placement opportunities at marquee recruiters like Microsoft, Google, and Krutrim
+  - Degree: Graduate from Masters' Union in India
+
+GLOBAL TRACK:
+  - 3 years in India + 4th year at Illinois Tech, Chicago
+  - Placement opportunities in the US + higher education options
+  - Degree: Graduate from Illinois Tech
+  - Illinois Tech Ranking: #1 in Illinois, #20 in the US (New York Times)
+
+--------------------------------------------------------------------------------
+SECTION 8: GLOBAL IMMERSION PROGRAMME
+--------------------------------------------------------------------------------
+
+Countries Covered:
+  1. USA (Silicon Valley)
+     Theme: Tech Giants in Silicon Valley
+     Companies Visited: Google, Apple, Netflix
+
+  2. Germany
+     Theme: Automotive Excellence
+     Companies Visited: BMW, Audi, Mercedes
+
+  3. Europe
+     Theme: Analytics and Innovation in Europe
+     Companies Visited: Philips R&D, Station F
+     Focus: Analytics and AI driving Sustainable Industries
+
+  4. Japan
+     Theme: Tech Adventures in Japan
+     Companies Visited: Nissan, Rakuten
+     Focus: Cutting-edge technology, insights from industry leaders
+
+  5. Singapore
+     Theme: AI and Emerging Tech
+     Companies Visited: Temasek, Singtel, Sanofi
+     Focus: AI transforming Digital Infrastructure, Cybersecurity, Healthcare
+
+  6. Dubai, UAE
+     Theme: Technology & Innovation
+     Places Visited: Dubai Future Foundation, Dubai Internet City
+     Focus: AI and Smart City solutions
+
+--------------------------------------------------------------------------------
+SECTION 9: STUDENT PROFILES (Sample Cohort)
+--------------------------------------------------------------------------------
+
+1. Pranav Verma
+   School: Delhi Public School, Panipat
+   Achievements: Top 10,000 rank in JEE Advanced (95+ percentile); excelled in chess,
+   table tennis, swimming; represented district in cricket
+
+2. Himani Gurwani
+   School: Royal Gondwana Public School, Nagpur
+   Achievements: National-Level Olympiad winner, 92% in Grade 10 Boards; entrepreneurial mindset
+
+3. Ishant Rajput
+   School: Mamta Modern Senior Secondary School, Delhi
+   Achievements: State-Level winner in Creative Slogan Writing; 83-percentile in JEE;
+   interested in AI tools for complex problem-solving
+
+4. Hiteshree Sharma
+   School: Presidium School, Gurugram
+   Achievements: District-Level Table Tennis medalist, trained tabla player, above 90th percentile
+   in CUET, school excellence awards 7 years in a row, professional Kathak dancer for 12+ years
+
+5. Arushi Ahuja
+   School: Kunskapsskolan, Gurugram
+   Achievements: Next Genius Scholar, Top 25 finalist in Viksit Bharat Challenge,
+   presented Quantum Computing work at CodeVerse (international participants),
+   built AI Voice Agents for Bajaj Insurance, built medical prescription transcriber
+   model trained on 10,000+ prescriptions
+
+--------------------------------------------------------------------------------
+SECTION 10: STUDENT LIFE & CAMPUS
+--------------------------------------------------------------------------------
+
+Campus Location: DLF Cyberpark, Gurugram
+
+Nearby Recruiters (short car ride away):
+  - Microsoft
+  - Google
+  - Amazon
+
+On-Campus Facilities:
+  - PwC X MU AI Lab (cutting-edge research and AI technology)
+  - Hostel: Fully furnished rooms, High-speed WiFi, on-campus gym, cafeteria,
+    recreation areas, quiet study zones, collaborative spaces
+
+Clubs & Activities:
+  - 20+ clubs fostering skills, creativity, and networking
+  - Career-oriented clubs: Data Science, Consulting (connect students with industry mentors)
+  - Cultural clubs: dance, dramatics, music, debating, sports
+
+--------------------------------------------------------------------------------
+SECTION 11: ADMISSIONS PROCESS
+--------------------------------------------------------------------------------
+
+Step 1 — Complete the Application Form:
+  - Submit academic qualifications
+  - Provide JEE score or SAT score
+  - Include extracurricular activities
+
+Step 2 — Submit the Video Essay:
+  - 2-minute video essay
+  - Topics: Interest in technology, past building experiences, motivation for DS & AI programme
+  - Time to complete: ~7 days after invitation
+
+Step 3 — Take the Aptitude Test:
+  - Option A: Upload JEE Advanced admit card or SAT scores
+  - Option B: Take the Masters' Union Scholarship Aptitude Test (MUSAT)
+  - MUSAT window: 20 days to complete
+
+--------------------------------------------------------------------------------
+SECTION 12: FEE STRUCTURE
+--------------------------------------------------------------------------------
+
+Admission Fee: INR 1,80,000 (one-time)
+
+India Track (All 4 Years in India):
+  Year 1: INR 10,80,000
+  Year 2: INR 15,95,000
+  Year 3: INR 17,85,000
+  Year 4: INR 7,90,000
+  Total:  INR 52,50,000 + INR 1,80,000 (Admission Fee)
+
+Global Track (3 Years India + 1 Year US):
+  Year 1: INR 10,80,000
+  Year 2: INR 15,95,000
+  Year 3: INR 17,85,000
+  Year 4: INR 70,20,000* (approx. $78,000 at 1:90 exchange rate)
+  Total:  INR 1,14,80,000 + INR 1,80,000 (Admission Fee)
+
+Note: The Year 4 Global Track amount is based on $78,000 converted at 1:90 INR exchange rate.
+Actual amount depends on prevailing rate at time of study.
+
+--------------------------------------------------------------------------------
+SECTION 13: SCHOLARSHIPS (India Track Only)
+--------------------------------------------------------------------------------
+
+25% Scholarship:
+  - Eligibility: 90th percentile+ in JEE / 1500+ in SAT / 35+ in MUSAT
+  - Year 1 Fee After Scholarship: INR 8,10,000
+  - Year 2 Fee After Scholarship: INR 11,96,250
+  - Year 3 Fee After Scholarship: INR 13,38,750
+  - Year 4 Fee After Scholarship: INR 5,92,500
+  - Total After Scholarship: INR 39,37,500
+
+50% Scholarship:
+  - Eligibility: 95th percentile+ in JEE / 1550+ in SAT / 40+ in MUSAT
+  - Year 1 Fee After Scholarship: INR 5,40,000
+  - Year 2 Fee After Scholarship: INR 7,97,500
+  - Year 3 Fee After Scholarship: INR 8,92,500
+  - Year 4 Fee After Scholarship: INR 3,95,000
+  - Total After Scholarship: INR 26,25,000
+
+80% Scholarship:
+  - Eligibility: 99th percentile+ in JEE / 1590+ in SAT / 43+ in MUSAT
+  - Year 1 Fee After Scholarship: INR 2,16,000
+  - Year 2 Fee After Scholarship: INR 3,19,000
+  - Year 3 Fee After Scholarship: INR 3,57,000
+  - Year 4 Fee After Scholarship: INR 1,58,000
+  - Total After Scholarship: INR 10,50,000
+
+Additional: Need-based scholarships are also provided to eligible students.
+
+--------------------------------------------------------------------------------
+SECTION 14: CAREER PATHWAYS
+--------------------------------------------------------------------------------
+
+Job Pathway — Placement Companies Include:
+  - Google
+  - Meta
+  - Apple
+  - Microsoft
+  - Samsung
+  - Amazon
+  - Paytm
+  - Accenture
+  - Flipkart
+  - Cisco
+  - ServiceNow
+  - Sprinklr
+  - Bain & Company
+  - Fractal
+  - Schbang
+  - Eightfold.ai
+  - TATA
+  - Lightstorm
+  - Landmark Group
+  - SEP
+  - CRED
+  - Cognizant
+  - CRISIL
+  - Better
+
+Entrepreneurship Pathway — Student Startup Examples:
+
+  1. Reyansh Juneja (Class of 2027)
+     Startup: MemTag
+     Description: AI-powered wearable and software to support dementia patients
+     Investor Pitch Valuation: $1M
+     Pre-Orders: INR 2 Crore
+     Featured: Shark Tank India Season 4
+
+  2. Kabir Teria (Class of 2027)
+     Startup: theGoodBrowser
+     Description: AI-based search engine browser
+
+  3. Ansh Mamgain & Ashwin Dev (Class of 2027)
+     Startup: Elite
+     Description: AI-driven hiring startup
+
+--------------------------------------------------------------------------------
+SECTION 15: CONTACT INFORMATION
+--------------------------------------------------------------------------------
+
+Phone: +91 - 7669186660
+Address: DLF Cyberpark, Gurugram
+Email: ugadmissions@mastersunion.org
+
+================================================================================
+END OF DOCUMENT
+================================================================================
